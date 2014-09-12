@@ -1,7 +1,7 @@
 {
   "name": "node-webkit-winreg",
-  "version": "0.0.13",
-  "description": "provides access to the windows registry through the REG tool",
+  "version": "0.0.13-1",
+  "description": "provides access to the windows registry through the REG tool within node-webkit applications",
   "main": "lib/registry.js",
   "scripts": {
     "test": "node test.js"
