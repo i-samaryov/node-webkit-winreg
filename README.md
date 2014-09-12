@@ -1,14 +1,15 @@
-node-winreg
+node-webkit-winreg
 ===========
 
-node module that provides access to the Windows Registry through the REG commandline tool
+node module that provides access to the Windows Registry through the REG commandline tool within node-webkit applications
+Based on Paul Bottin's [winreg](https://github.com/fresc81/node-winreg) and includes George Petrov's [fix for Windows XP](https://github.com/gpetrov/node-winreg/commit/c07f68811a7265b6ddf0afd894a5cf32c19a87d9)
 
 
 Installation
 ------------
 
 ```shell
-npm install winreg 
+npm install node-webkit-winreg 
 ```
 
 
